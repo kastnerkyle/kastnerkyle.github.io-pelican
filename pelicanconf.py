@@ -5,7 +5,7 @@ AUTHOR = u'Kyle Kastner'
 
 SITENAME = u'KK...JK...OK :/'
 SITESUBTITLE = u'Garbage in, garbage out'
-SITEURL = '' # change in publishconf.py
+SITEURL = ''  # change in publishconf.py
 
 # Times and dates
 DEFAULT_DATE_FORMAT = '%b %d, %Y'
@@ -18,7 +18,10 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 MENUITEMS = [('Archives', '/archives.html'),
-             ('Home Page', 'http://github.com/kastnerkyle')]
+             ('Home Page', 'http://github.com/kastnerkyle'),
+             ('My Other Blog', 'http://kkjkok.blogspot.com'),
+             ('DSPRelated.com',
+              'http://www.dsprelated.com/blogs-1/nf/Kyle_Kastner.php')]
 NEWEST_FIRST_ARCHIVES = False
 
 #Github include settings
@@ -49,8 +52,8 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 # Theme and plugins
 #  Theme requires http://github.com/duilio/pelican-octopress-theme/
 #  Plugins require http://github.com/getpelican/pelican-plugins/
-THEME = '/home/kkastner/proj/pelican-octopress-theme/'
-PLUGIN_PATH = '/home/kkastner/proj/pelican-plugins'
+THEME = '../pelican-octopress-theme/'
+PLUGIN_PATH = '../pelican-plugins'
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook',
            'liquid_tags.literal']
