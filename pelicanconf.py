@@ -27,7 +27,7 @@ NEWEST_FIRST_ARCHIVES = False
 #Github include settings
 GITHUB_USER = 'kastnerkyle'
 GITHUB_REPO_COUNT = 5
-GITHUB_SKIP_FORK = False
+GITHUB_SKIP_FORK = True
 GITHUB_SHOW_USER_LINK = True
 
 # Blogroll
@@ -43,7 +43,7 @@ GITHUB_SHOW_USER_LINK = True
 DEFAULT_PAGINATION = 10
 
 # STATIC_OUT_DIR requires pelican 3.3
-STATIC_OUT_DIR = ''
+#STATIC_OUT_DIR = ''
 STATIC_PATHS = ['images', 'figures', 'downloads']
 FILES_TO_COPY = [('favicon.png', 'favicon.png')]
 CODE_DIR = 'downloads/code'
