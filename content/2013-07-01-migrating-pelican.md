@@ -13,29 +13,11 @@ to this site, as well as posting new material as it arises.
 <!-- PELICAN_END_SUMMARY -->
 
 ### Machine Learning ###
-Bayesian Unknown Mean
-
-Bayesian Unknown Var
-
-Bayesian Unknown Mean, Var
-
-Bayesian Linear Regression
-
-Linear Discriminants
-
-Bayesian Logistic Regression
-
 Support Vector Machines
-
-Relevance Vector Machines
-
 
 k Means
 
 x Means
-
-DPGMM
-
 
 k Nearest Neighbors
 
@@ -43,13 +25,11 @@ Decision Trees
 
 Random Forests
 
-
 Neural Networks
 
-Restricted Boltzmann Machine
+Robust PCA
 
-Deep Belief Networks
-
+Bayesian Optimization of Hyperparameters
 
 Probabilistic Matrix Factorization and Kernel Matrix Factorization
 
@@ -62,36 +42,38 @@ Independent Component Analysis
 Monoaural Source Separation
 
 
+## Statistics ##
+Markov Chains
+
+MCMC using PyMC
+
+Hidden Markov Models
+
+Stastical Model Building
+
+
 ## DSP ##
 Spectral Kurtosis
 
 Pseudo Wigner-Ville Distribution
 
-Polyphase C++/CUDA
+Polyphase Signal Processing 
 
 Cyclic Coherence Function
+
+Cross Ambiguity Function
 
 RLS Filter
 
 LMS Filter
 
-
 Viterbi decoder w/ tail-biting, puncturing
-
-LLR Soft Decision Decode
-
-RSSE (reduced Sequence State Estimation)
-
-Single Channel Frequency Domain Equalization
-
 
 Wavelet Transform
 
 Hilbert Transform
 
-Non-linear Kalman Filters
-
-Cascaded Integrator Comb Filter
+Kalman Filters (KF, EKF, UKF)
 
 Sparse Transforms (FFT, Hadamard,....)
 
