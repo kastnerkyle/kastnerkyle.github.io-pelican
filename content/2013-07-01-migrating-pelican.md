@@ -15,19 +15,13 @@ to this site, as well as posting new material as it arises.
 ### Machine Learning ###
 Support Vector Machines
 
-k Means
-
 x Means
 
-k Nearest Neighbors
-
-Decision Trees
-
-Random Forests
-
-Neural Networks
+Modern Neural Networks
 
 Robust PCA
+
+Dictionary Learning
 
 Bayesian Optimization of Hyperparameters
 
@@ -49,7 +43,7 @@ MCMC using PyMC
 
 Hidden Markov Models
 
-Stastical Model Building
+Stastical Model Building (Linear, Quadratic, etc. Regression)
 
 
 ## DSP ##
@@ -66,6 +60,12 @@ Cross Ambiguity Function
 RLS Filter
 
 LMS Filter
+
+Equalization
+
+Wiener Filter
+
+Savitsky-Golay Filter
 
 Viterbi decoder w/ tail-biting, puncturing
 
