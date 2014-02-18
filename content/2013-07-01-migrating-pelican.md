@@ -15,7 +15,7 @@ to this site, as well as posting new material as it arises.
 ### Machine Learning ###
 Support Vector Machines
 
-x Means
+X Means
 
 Modern Neural Networks
 
@@ -51,7 +51,7 @@ Spectral Kurtosis
 
 Pseudo Wigner-Ville Distribution
 
-Polyphase Signal Processing 
+~~Polyphase Signal Processing~~ 
 
 Cyclic Coherence Function
 
