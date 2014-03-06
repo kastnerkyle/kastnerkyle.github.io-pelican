@@ -11,15 +11,24 @@ IPython. With these things in mind, I will slowly begin moving some of the more 
 to this site, as well as posting new material as it arises.
 
 <!-- PELICAN_END_SUMMARY -->
+### RF Simulations ###
+Antenna Arrays and Beamforming
+
+pCell Python Demonstration
+
 
 ### Machine Learning ###
 Support Vector Machines
 
 X Means
 
+k Stochastic Neighbors
+
+tSNE and ktSNE
+
 Modern Neural Networks
 
-Robust PCA
+~~Robust PCA~~
 
 Dictionary Learning
 
