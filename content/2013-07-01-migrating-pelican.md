@@ -50,7 +50,7 @@ Markov Chains
 
 MCMC using PyMC
 
-Hidden Markov Models
+Hidden Markov Models For Speech Recognition - see https://code.google.com/p/hmm-speech-recognition/source/browse/extract_features.m
 
 Stastical Model Building (Linear, Quadratic, etc. Regression)
 
