@@ -59,6 +59,7 @@ EXTRA_HEADER = open('_nb_header_mod.html').read().decode('utf-8')
 LINKS = [('Notes', 'http://kkjkok.blogspot.com'),
          ('DSPRelated.com',
           'http://www.dsprelated.com/blogs-1/nf/Kyle_Kastner.php'),
+         ('FastML', 'http://www.fastml.com/'),
          ('PushButtonRobotics', 'http://pushbuttonrobotics.weebly.com/'),
          ('SmellTheData', 'http://blog.smellthedata.com/'),
          ('PythonicPerambulations', 'http://jakevdp.github.io')]

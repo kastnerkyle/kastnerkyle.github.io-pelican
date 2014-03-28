@@ -12,12 +12,40 @@ to this site, as well as posting new material as it arises.
 
 <!-- PELICAN_END_SUMMARY -->
 ### RF Simulations ###
+Monopole and Dipole Antennas
+
+Doublet Antennas
+
 Antenna Arrays and Beamforming
 
 pCell Python Demonstration
 
 
+### Matrix Math ###
+Householder Transform and Applications
+
+
+### Geo ###
+Delaunay Meshing of Images and DTED Data (http://loomsci.wordpress.com/tag/delaunay-triangulation/)
+
+
+### Hack ###
+Custom kernel for WiFi SDCARD
+
+Fully Automated Quadcopter Build
+
+
 ### Machine Learning ###
+Hidden Markov Models for Speech Recognition
+
+Dictionary Learning
+
+Probabilistic Matrix Factorization
+
+Bayesian PMF and KPMF
+
+Sum-Product Networks
+
 Support Vector Machines
 
 X Means
@@ -26,23 +54,23 @@ k Stochastic Neighbors
 
 tSNE and ktSNE
 
+Space Filling Curves For Nearest Neighbor Queries
+
 Modern Neural Networks
 
-~~Robust PCA~~
+Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 
-Dictionary Learning
+GraphCut
 
 Bayesian Optimization of Hyperparameters
-
-Probabilistic Matrix Factorization and Kernel Matrix Factorization
-
-Bayesian PMF and KPMF
 
 Probabilistic Latent Component Analysis
 
 Independent Component Analysis
 
 Monoaural Source Separation
+
+~~Robust PCA~~
 
 
 ## Statistics ##
@@ -83,6 +111,8 @@ Wavelet Transform
 Hilbert Transform
 
 Kalman Filters (KF, EKF, UKF)
+
+WHT and Slant Transform
 
 Sparse Transforms (FFT, Hadamard,....)
 
