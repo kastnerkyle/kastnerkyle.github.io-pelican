@@ -86,6 +86,8 @@ Stastical Model Building (Linear, Quadratic, etc. Regression)
 ## DSP ##
 Spectral Kurtosis
 
+Kurtosis ICA - see http://www.cs.nyu.edu/~roweis/kica.html
+
 Pseudo Wigner-Ville Distribution
 
 ~~Polyphase Signal Processing~~ 
@@ -111,6 +113,10 @@ Wavelet Transform
 Hilbert Transform
 
 Kalman Filters (KF, EKF, UKF)
+
+Particle Filter - see http://www.aiqus.com/questions/16599/implementation-issue-with-particle-filters
+
+Particle SLAM
 
 WHT and Slant Transform
 
