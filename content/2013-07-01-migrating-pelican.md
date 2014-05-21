@@ -35,6 +35,14 @@ Custom kernel for WiFi SDCARD
 Fully Automated Quadcopter Build
 
 
+### Discrete Optimization ###
+Simplex Algorithm
+
+Branch and Bound
+
+Submodular Optimization
+
+
 ### Machine Learning ###
 Hidden Markov Models for Speech Recognition
 
@@ -49,6 +57,10 @@ Sum-Product Networks
 Support Vector Machines
 
 X Means
+
+Parzen Windowing
+
+Neural Network Manifold with KNN / Parzen Windowing http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
 k Stochastic Neighbors
 
@@ -74,11 +86,9 @@ Monoaural Source Separation
 
 
 ## Statistics ##
-Markov Chains
+~~Markov Chains~~
 
 MCMC using PyMC
-
-Hidden Markov Models For Speech Recognition - see https://code.google.com/p/hmm-speech-recognition/source/browse/extract_features.m
 
 Stastical Model Building (Linear, Quadratic, etc. Regression)
 
