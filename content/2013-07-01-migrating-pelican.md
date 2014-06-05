@@ -44,7 +44,9 @@ Submodular Optimization
 
 
 ### Machine Learning ###
-Hidden Markov Models for Speech Recognition
+~~~Hidden Markov Models for Single Speaker Speech Recognition~~~
+
+~~Robust PCA~~
 
 Dictionary Learning
 
@@ -52,51 +54,74 @@ Probabilistic Matrix Factorization
 
 Bayesian PMF and KPMF
 
-Sum-Product Networks
 
-Support Vector Machines
+Support Vector Machines and Kernels
 
-X Means
+Learning Kernels
 
-Parzen Windowing
-
-Neural Network Manifold with KNN / Parzen Windowing http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
-
-k Stochastic Neighbors
-
-tSNE and ktSNE
-
-Space Filling Curves For Nearest Neighbor Queries
-
-Modern Neural Networks
-
-Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
-
-GraphCut
-
-Bayesian Optimization of Hyperparameters
+Sparse Parallel PCA with NIPALS
 
 Probabilistic Latent Component Analysis
 
 Independent Component Analysis
 
+Kurtosis ICA - see http://www.cs.nyu.edu/~roweis/kica.html
+
 Monoaural Source Separation
 
-~~Robust PCA~~
+tSNE and ktSNE
+
+X Means
+
+Parzen Windowing
+
+
+k Stochastic Neighbors
+
+Space Filling Curves For Nearest Neighbor Queries
+
+Modern Neural Networks
+
+HF optimization
+
+RNN for handwriting recognition
+
+Neural Network Manifold with KNN / Parzen Windowing http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
+Sum-Product Networks
+
+GP density sampler http://homepages.inf.ed.ac.uk/imurray2/pub/09gpds/gpds_nips.pdf
+
+Automatic Model Construction https://github.com/duvenaud/phd-thesis/
+
+Bayesian Optimization of Hyperparameters
+
+Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+
+GraphCut
 
 
 ## Statistics ##
+Stastical Model Building (Linear, Quadratic, etc. Regression)
+
+Statistical Regression
+
+ANOVA
+
+ANCOVA
+
+ARMA
+
+ARIMA
+
 ~~Markov Chains~~
 
 MCMC using PyMC
 
-Stastical Model Building (Linear, Quadratic, etc. Regression)
 
 
 ## DSP ##
 Spectral Kurtosis
-
-Kurtosis ICA - see http://www.cs.nyu.edu/~roweis/kica.html
 
 Pseudo Wigner-Ville Distribution
 
@@ -118,17 +143,17 @@ Savitsky-Golay Filter
 
 Viterbi decoder w/ tail-biting, puncturing
 
-Wavelet Transform
+~~Wavelet Transform~~
 
 Hilbert Transform
+
+WHT and Slant Transform
 
 Kalman Filters (KF, EKF, UKF)
 
 Particle Filter - see http://www.aiqus.com/questions/16599/implementation-issue-with-particle-filters
 
 Particle SLAM
-
-WHT and Slant Transform
 
 Sparse Transforms (FFT, Hadamard,....)
 
