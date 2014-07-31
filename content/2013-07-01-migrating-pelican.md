@@ -75,7 +75,6 @@ X Means
 
 Parzen Windowing
 
-
 k Stochastic Neighbors
 
 Space Filling Curves For Nearest Neighbor Queries
@@ -85,6 +84,8 @@ Modern Neural Networks
 HF optimization
 
 RNN for handwriting recognition
+
+Kernel Optimizations with Fastfood http://cs.stanford.edu/~quocle/LeSarlosSmola_ICML13.pdf
 
 Neural Network Manifold with KNN / Parzen Windowing http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
