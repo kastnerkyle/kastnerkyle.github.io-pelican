@@ -10,3 +10,4 @@ rm *.tar
 rm *.pyc
 rm -rf Campus Curtain Bootstrap hall ShoppingMall WaterSurface Fountain Escalator
 rm -rf an4 audio pages
+rm -rf .ropeproject
